@@ -4,3 +4,5 @@
 > GPG: BFB48287233CEFF3
 
 > Discord: ByteZ#1337
+ 
+> [Support Discord](https://discord.gg/EpVMXtXB2t)
