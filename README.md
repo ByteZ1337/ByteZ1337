@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://discord.c99.nl/widget/theme-2/272301091146825728.png"/>
+ <img src="https://xenondevs.xyz/pa.svg"/><br>
 </p>
  
 > GPG: BFB48287233CEFF3
